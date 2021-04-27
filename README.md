@@ -3,11 +3,11 @@
 <div align="center">
 
 <a href="https://www.instagram.com/kimberly__dsouza/">
-  <img align="left" title="Instagram - kimberly__dsouza" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/brainifii/brainifii/master/Static/instagram.svg" />
+  <img align="left" title="Instagram - @kimberly__dsouza" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/brainifii/brainifii/master/Static/instagram.svg" />
 </a>
 
 <a href="https://twitter.com/KimberlyDsouz17">
-  <img align="left" title="Twitter - KimberlyDsouz17" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" title="Twitter - @kimberlydsouz5" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/kimberly-d%E2%80%99souza-83421b205/">
