@@ -28,6 +28,14 @@
 
 </br>
 
+💁‍♀️ **Heads up about me:**
+</br>
+* 👩‍💻 *"Technology is a privilege, and it needs to be used for the greater good"* - **#TECH-FREAK**
+* 💻 **A Quick Learner**
+* 🎶 **Music is my daily therapy!**
+* 📘 **Kinda Book-Worm** ... *just for good stories* 
+* 🦸‍♀️ **A Marvel Fan**
+
 <p align="center">
 </br>
 <img src="https://github-readme-stats.vercel.app/api?username=kimberly245&show_icons=true&bg_color=0D1117&text_color=D9D9D9&border_radius=30&include_all_commits=true&count_private=true&custom_title=My GitHub Stats" alt="kimberly245" />
@@ -36,8 +44,8 @@
 ## Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  200 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 0 tasks so far           
+🏆  200 Karma Points
+🌸  Completed 0 tasks today
+✅  Completed 0 tasks so far
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
