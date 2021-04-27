@@ -28,3 +28,7 @@
 
 </br>
 
+<p align="center">
+</br>
+<img src="https://github-readme-stats.vercel.app/api?username=kimberly245&show_icons=true&bg_color=0D1117&text_color=D9D9D9&border_radius=30&include_all_commits=true&count_private=true&custom_title=My GitHub Stats" alt="kimberly245" />
+</p>
