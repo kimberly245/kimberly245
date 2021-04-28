@@ -31,9 +31,10 @@
 💁‍♀️ **Heads up about me:**
 </br>
 * 👩‍💻 *"Technology is a privilege, and it needs to be used for the greater good"* - **#TECH-FREAK**
-* 💻 **A Quick Learner**
+* 💻 **A Quick Learner!**
 * 🎶 **Music is my daily therapy!**
-* 📘 **Kinda Book-Worm** ... *just for good stories* 
+* 📘 **Kinda Book-Worm** ... *just for good stories!* 
+* 🌱 **Nature Lover**
 * 🦸‍♀️ **A Marvel Fan**
 
 <p align="center">
