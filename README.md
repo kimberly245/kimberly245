@@ -34,8 +34,8 @@
 * 💻 **A Quick Learner!**
 * 🎶 **Music is my daily therapy!**
 * 📘 **Kinda Book-Worm** ... *just for good stories!* 
-* 🌱 **Nature Lover**
-* 🦸‍♀️ **A Marvel Fan**
+* 🌱 **Nature Lover!**
+* 🦸‍♀️ **A Marvel Fan!**
 
 <p align="center">
 </br>
