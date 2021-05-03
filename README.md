@@ -6,15 +6,15 @@
   <img align="left" title="Instagram - @kimberly__dsouza" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/brainifii/brainifii/master/Static/instagram.svg" />
 </a>
 
-<a href="https://twitter.com/KimberlyDsouz17">
+<a href="https://twitter.com/kimberlydsouz5">
   <img align="left" title="Twitter - @kimberlydsouz5" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/kimberly-d%E2%80%99souza-83421b205/">
+<a href="https://www.linkedin.com/in/kimberly-dsouza-83421b205/">
   <img align="left" title="LinkedIN - kimberly-d'souza" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<a href="https://www.facebook.com/kimberly.dsouza.511/">
+<a href="https://www.facebook.com/kimberly.dsouza245/">
     <img align="left" title="Facebook - Kimberly Dsouza" alt="Facebook" title="Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg">
 </a>
 
