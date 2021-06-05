@@ -54,4 +54,8 @@
 ## This week I spent my time on
 
 <!--START_SECTION:waka-->
+```text
+HTML         20 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀   63.25 % 
+Dart         10 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.78 % 
+```
 <!--END_SECTION:waka-->
