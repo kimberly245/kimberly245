@@ -50,3 +50,8 @@
 ✅  Completed 22 tasks so far           
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
+
+## This week I spent my time on
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
