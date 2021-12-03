@@ -55,6 +55,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-HTML   46 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.93 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
